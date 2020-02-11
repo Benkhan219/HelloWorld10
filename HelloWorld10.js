@@ -1,6 +1,5 @@
 var HelloWorld10 = (function () {
     function HelloWorld10(firstName, lastName) {
-        this.firstName = '';
         this.firstName = firstName;
         this.lastName = lastName;
     }
